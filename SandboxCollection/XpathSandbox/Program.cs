@@ -8,7 +8,7 @@ namespace XpathSandbox
     {
         static void Main(string[] args)
         {
-            ////Home_b3072214-bd65-40be-804e-cc014f90a833.html Home_b3072214-bd65-40be-804e-cc014f90a833_es.html
+            ////Home_b3072214-bd65-40be-804e-cc014f90a833.html Home_b3072214-bd65-40be-804e-cc014f90a833_es.html 
             XDocument xDoc = XDocument.Load(@"C:\Users\v-ivayal\Desktop\xml.xml");
 
             foreach (var xe in xDoc.XPathSelectElements("//Field"))
