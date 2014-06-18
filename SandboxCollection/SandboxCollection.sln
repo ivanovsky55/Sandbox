@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XpathSandbox", "XpathSandbo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosedXmlSandbox", "ClosedXmlSandbox\ClosedXmlSandbox.csproj", "{F410FF2C-98AB-46EB-9963-9C8492A6F14D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltTextExtractor", "AltTextExtractor\AltTextExtractor.csproj", "{B3D9FA79-2E01-4AE5-9B13-1ADB417B32A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{F410FF2C-98AB-46EB-9963-9C8492A6F14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F410FF2C-98AB-46EB-9963-9C8492A6F14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F410FF2C-98AB-46EB-9963-9C8492A6F14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D9FA79-2E01-4AE5-9B13-1ADB417B32A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D9FA79-2E01-4AE5-9B13-1ADB417B32A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D9FA79-2E01-4AE5-9B13-1ADB417B32A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D9FA79-2E01-4AE5-9B13-1ADB417B32A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
